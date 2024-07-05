@@ -15,9 +15,11 @@ For alpha releases, keep in mind that when you create a new campaign it will be 
   - For template creation, the first line must be z-threshold = 0.0 (or any other floating number)
   - z-threshold is the ground height at which your template was created.
   - The next lines will be UnitSpawner objects and StaticObject objects.
- 6. Place your templates to your heart's contect
+6. Place your templates to your heart's contect
+7. When you're ready to save, use File > Save as... or File > Save
 
 # NOTES:
-In this early alpha build, you must have at least one unit, and one static object in scenario that you're copying templates to.
+- In this early alpha build, you must have at least one unit, and one static object in scenario that you're copying templates to.
+
 
  HAPPY HUNTING!
