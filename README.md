@@ -17,4 +17,7 @@ For alpha releases, keep in mind that when you create a new campaign it will be 
   - The next lines will be UnitSpawner objects and StaticObject objects.
  6. Place your templates to your heart's contect
 
+# NOTES:
+In this early alpha build, you must have at least one unit, and one static object in scenario that you're copying templates to.
+
  HAPPY HUNTING!
