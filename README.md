@@ -12,8 +12,8 @@ For alpha releases, keep in mind that when you create a new campaign it will be 
 3. Choose Scenario button on the bottom left corner.
 4. Choose Map... button if you plan on building off the map, otherwise, press the Unit -> Template button to replace your units with templates.
 5. Import Templates button will allow you to choose the folder where your templates live for import.
-  - For template creation, the first line must be z-threshold = 0.0 (or any other floating number)
-  - z-threshold is the ground height at which your template was created.
+  - For template creation, the first line must be z_threshold = 0.0 (or any other floating number)
+  - z_threshold is the ground height at which your template was created.
   - The next lines will be UnitSpawner objects and StaticObject objects.
 6. Place your templates to your heart's contect
 7. When you're ready to save, use File > Save as... or File > Save
