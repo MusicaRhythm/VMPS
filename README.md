@@ -5,21 +5,35 @@ For alpha releases, keep in mind that when you create a new campaign it will be 
 
 # How to use:
 
-1. File > New Campaign...
- - Enter a campaign name, then choose the folder where your campaign lives.
-2. File > Open Campaign...
-- Should be in your temp folder path that opens when you go Open Campaign. If you want to keep up with this file, I recommend dragging to the desktop.
-3. Choose Scenario button on the bottom left corner.
-4. Choose Map... button if you plan on building off the map, otherwise, press the Unit -> Template button to replace your units with templates.
-5. Import Templates button will allow you to choose the folder where your templates live for import.
-  - For template creation, the first line must be z_threshold = 0.0 (or any other floating number)
-  - z_threshold is the ground height at which your template was created.
-  - The next lines will be UnitSpawner objects and StaticObject objects.
-6. Place your templates to your heart's contect
-7. When you're ready to save, use File > Save as... or File > Save
+1. Seed your VTOL VR Campaign
+   - File > New Campaign...
+   - Enter campaign name, then select the folder in VTOL VR for an existing campaign.
+   - NOTE: Campaigns must first be seeded with 1 unit and 1 static object for the tool to work properly.
+2. Open the seeded campaign
+   - File > Open Campaign...
+   - In your temp folder, there should be a folder labeled 'campaigns'
+   - Open the 'campaigns' folder, then open the campaign name that you previously seeded
+       - It should look like '[insert_name_here].campaign
+3. Click the Choose Scenario... button in the bottom left corner of VMPS.
+   - Select whichever Scenario.vts you'd like to begin working on.
+5. Click the Choose Map... button in VMPS.
+   - The choose map button will allow you to right-click and place templates on the map once they've been imported.
+6. Click the Import Templates button in VMPS.
+   - Use the templates.zip file in releases as an example for what your templates should look like
+   - Extract the templates.zip file to a folder.
+   - When you click Import Templates, select the folder that the templates were extracted to.
+   - When that folder is selected, all templates in that folder will be imported. (This allows you to use the folders like palettes).
+7. Place your templates using right-click > template > [select your template]
+8. Alternatively, place templates using the Unit -> Template button (preferred method).
+9. Place as many templates as you want using steps 7 & 8.
+10. When ready to save your Scenario.vts file, use File > Save As... OR File > Save
+
+
 
 # NOTES:
 - In this early alpha build, you must have at least one unit, and one static object in scenario that you're copying templates to.
 
 
- HAPPY HUNTING!
+HAPPY MISSION EDITING, HAVE FUN!
+
+For any issues, contact Musica on discord.
