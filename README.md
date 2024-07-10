@@ -32,7 +32,7 @@
 
 ### 6. Place Templates
 - Right-click on the map > `Template` > [select your template]
-- Alternatively, use the `Unit -> Template` button (preferred method).
+- Alternatively, use the `Unit -> Template` button **(preferred method)**.
 - Place as many templates as you want using the above methods.
 
 ### 7. Save Your Scenario
