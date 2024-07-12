@@ -42,3 +42,6 @@
 - In this early alpha build, you must have at least one unit and one static object in the scenario that you're copying templates to.
 
 **Happy Hunting!**
+
+![image](https://github.com/user-attachments/assets/e73244fa-56c7-4bcc-b580-f79505e943eb)
+
