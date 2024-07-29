@@ -1,6 +1,7 @@
 # VMPS: Musica's VTOL Mission Planning Software
 
-**Note for Alpha Releases:** When you create a new campaign, it will be placed in your temp folder.
+**Note for Alpha Releases:** Expect bugs, this is a closed alpha test currently. Please don't share with others who haven't been directly asked. I will not take responsibility if you corrupt or break a .vts file.
+**CURRENT VERSION: 0.0.6 in Releases**
 
 ## How to Use
 
